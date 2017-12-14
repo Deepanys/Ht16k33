@@ -1,5 +1,7 @@
 /*************************************************** 
 This is example for Ht16k33 driver with 7 segment display
+ Must have the Adafruit RTClib library installed 
+ See: https://github.com/adafruit/RTClib
 
 pin config:
 scl - On Arduino UNO thats Analog #5, on the Leonardo its Digital #3, on the Mega its digital #21
